@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1552133241 source:c:\agh\s6\rozpr\z1\c\node\main.cpp
+	<Winsock2.h>
+	<Ws2tcpip.h>
+	<Windows.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
